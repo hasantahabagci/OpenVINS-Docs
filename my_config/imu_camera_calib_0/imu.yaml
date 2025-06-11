@@ -1,0 +1,10 @@
+rostopic: /mavros/imu/data_raw
+update_rate: 200.0 #Hz
+
+accelerometer_noise_density: 0.08 #continous
+accelerometer_random_walk: 0.00004 
+gyroscope_noise_density: 0.01 #continous
+gyroscope_random_walk: 0.000002
+
+
+
